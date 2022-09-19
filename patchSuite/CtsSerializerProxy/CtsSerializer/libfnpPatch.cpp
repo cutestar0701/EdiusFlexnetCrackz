@@ -373,10 +373,10 @@ void wmi_install_patch()
     Mhook_SetHook((PVOID*)&g_oriReadFile, myReadFile);
 
     PatchAppMaintainer_libFNP_dll();
-    //PatchPayload();
 }
 
 void wmi_uninstall()
 {
-    Mhook_Unhook((PVOID*)&g_ori_DeviceIoControl);
+    Mhook_Unhook((PVOID*)&g_ori_DeleteFileW);
+    Mhook_Unhook((PVOID*)&g_oriReadFile);
 }
