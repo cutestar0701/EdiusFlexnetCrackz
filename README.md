@@ -11,6 +11,7 @@ EDIUS_Setup-9.55.9157.exe
 
 EDIUS_Setup-10.32.8750.exe
 
+This project help you to register Edius Workgroup 9 & 10 permanent version.
 
 Usage.
 1. go to {releaseVer} directory.
