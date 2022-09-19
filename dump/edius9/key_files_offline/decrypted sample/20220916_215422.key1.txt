@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Request xmlns="FLEXnetPublisher_01EFFF13-92D7-469e-B7CC-35E13C2E8D4A">
+	<RequestHeader>
+		<VersionNumber>6</VersionNumber>
+		<VersionBase>6</VersionBase>
+		<RequestType>COMPOSITE</RequestType>
+		<PublisherId>10121728</PublisherId>
+	</RequestHeader>
+	<RequestData>
+		<OriginData>
+<ClientVersion>11.15.0</ClientVersion><ConfigData><IsServer>0</IsServer><TrustedHostInformation><TrustedId>1</TrustedId><Revision>1334033288156</Revision><RevisionType>SRV</RevisionType><MachineIdentifier>3175D58939F86EFBCFF1BF84090CB72D1DC866CE</MachineIdentifier><Status>OK</Status></TrustedHostInformation></ConfigData>
+<Platform>
+<PlatformTypeName>x64_n6</PlatformTypeName>
+<OperatingSystem><Info>none</Info></OperatingSystem>
+</Platform>
+<UniqueMachineNumbers>
+<UniqueMachineNumber><Type>1</Type><Value>4005761DF3AAAD78B447796314AA9AE97DF7C766</Value></UniqueMachineNumber>
+<UniqueMachineNumber><Type>2</Type><Value>4CF59000F6EFA7B805A25FEBCCCD3DD0F655DE0E</Value></UniqueMachineNumber>
+</UniqueMachineNumbers>
+<SequenceNumber>70</SequenceNumber>
+			<TrustedStorageSerialNumber>B7BF58150BDF79B9927637A1807FAC3B00A55D31C6CA4454A0893DDF9EE05C3C</TrustedStorageSerialNumber>
+			<Generated>2022-09-16T21:54:17+09:00</Generated>
+			<RequesterReference></RequesterReference>
+		</OriginData>
+<ExistingFulfillments><ExistingFulfillment>		<FulfillmentId>FNP_SPFR_1</FulfillmentId>
+		<FulfillmentType>0</FulfillmentType>
+		<Trust>
+			<IsTrusted>true</IsTrusted>
+		</Trust>
+		<IsEnabled>true</IsEnabled>
+		<TrustedId>0</TrustedId>
+</ExistingFulfillment></ExistingFulfillments>		<RequestParameters>			<RequestActions>
+<RequestActivate>
+<RightsId>
+<Type>0</Type>
+<Value>412019-E9GG97005E6LQY2R</Value>
+</RightsId>
+<Reason>0</Reason>
+<Count>all</Count>
+</RequestActivate>
+			</RequestActions>
+		</RequestParameters>
+	</RequestData>
+<Hash>CB3D371340ED10E4E60971CD0F573AD8EF5F10AC</Hash>
+<HashVersion>1</HashVersion>
+</Request>

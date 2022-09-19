@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?><Response xmlns="FLEXnetPublisher_01EFFF13-92D7-469e-B7CC-35E13C2E8D4A"><ResponseHeader><VersionNumber>5</VersionNumber><VersionBase>5</VersionBase><ResponseType>COMPOSITE</ResponseType><RequestSequenceNumber>37</RequestSequenceNumber><RequestHash>9E566BBB0A9C1ADC5F259BDF325A53022A9CEC17</RequestHash></ResponseHeader><RequesterVerification><UniqueMachineNumbers><UniqueMachineNumber><Type>1</Type><Value>4005761DF3AAAD78B447796314AA9AE97DF7C766</Value></UniqueMachineNumber><UniqueMachineNumber><Type>2</Type><Value>4CF59000F6EFA7B805A25FEBCCCD3DD0F655DE0E</Value></UniqueMachineNumber></UniqueMachineNumbers></RequesterVerification><ResponseData>
+        <ResponseActions>
+            <ResponseDelete>
+                <FulfillmentId>FID_da2a9831_a6a9_4a4d_817b_43f333ed0c99</FulfillmentId>
+                <TrustedId>1</TrustedId>
+            </ResponseDelete>
+        </ResponseActions>
+    </ResponseData><SignatureData><TrustedSection><TrustedId>1</TrustedId><Signature>05C9A0245A6EBB7B6B4B81A769CDF204BBB08EDD57B3EC522AD6C7BD50AE0551DD25FA4764C042D606965DAC3F8A8022E56EDAD411D085073B3F011A</Signature></TrustedSection></SignatureData><SignatureVersion>3</SignatureVersion></Response>
