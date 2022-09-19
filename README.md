@@ -1,6 +1,7 @@
 # EdiusFlexnetCrackz
 crack Grass Valley Edius 9 &amp; 10 latest version
 
+You can donwload the latest version from https://www.edius.net/edius_download.html
 -Edius 9
 EDIUS_Setup-9.55.9157.exe
 
