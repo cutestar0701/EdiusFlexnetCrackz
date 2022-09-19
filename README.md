@@ -1,5 +1,5 @@
 # EdiusFlexnetCrackz
-crack Grass Valley Edius 9 &amp; 10 latest version
+This project help you to register Edius Workgroup 9 & 10 permanent version.
 
 You can donwload the latest version from https://www.edius.net/edius_download.html
 
@@ -11,7 +11,7 @@ EDIUS_Setup-9.55.9157.exe
 
 EDIUS_Setup-10.32.8750.exe
 
-This project help you to register Edius Workgroup 9 & 10 permanent version.
+
 
 Usage.
 1. go to {releaseVer} directory.
