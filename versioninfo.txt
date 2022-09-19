@@ -1,0 +1,5 @@
+-Edius 9
+EDIUS_Setup-9.55.9157.exe
+
+-Edius X
+EDIUS_Setup-10.32.8750.exe
