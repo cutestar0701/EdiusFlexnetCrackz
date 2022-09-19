@@ -1,5 +1,5 @@
 # EdiusFlexnetCrackz
-This project help you to register Edius Workgroup 9 & 10 permanent version.
+This project help you to register Edius Workgroup 9 & 10 permanent license.
 
 You can donwload the latest version from https://www.edius.net/edius_download.html
 
