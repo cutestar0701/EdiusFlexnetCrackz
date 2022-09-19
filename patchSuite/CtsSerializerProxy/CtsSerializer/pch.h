@@ -15,7 +15,7 @@ void wmi_install_patch();
 void wmi_uninstall();
 void kgh_log(char* fmt, ...);
 
-#define KGH_LOG_ENABLE 1
+#define KGH_LOG_ENABLE 0
 #define GVKK_LICENSEKEY "412019-E9GG97005E6LQY2R"
 void* Get_IWbemServices_ExecQuery_funcAddress();
 void* Get_IWbemClassObject_Get_funcAddress();
