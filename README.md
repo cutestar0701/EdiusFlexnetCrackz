@@ -11,7 +11,9 @@ EDIUS_Setup-9.55.9157.exe
 
 EDIUS_Setup-10.32.8750.exe
 
-When launch {Edius.exe}, it shows {Register License}dialog. Do not worry you have no license. it's our business.
+When launch {Edius.exe}, it shows {Register License}dialog.
+Do not worry you have no license.
+it's my business.
 
 Usage.
 1. go to {releaseVer} directory.
@@ -30,7 +32,9 @@ please go to {responsekey0} directory.
 10. if you select {Response.key} file, then it takes some seconds.
 11. done!
 while instruction, there are no special case.
+
 Enjoy unlimited edius!
+
 
 by cute_star
  
